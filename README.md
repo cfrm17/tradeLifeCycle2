@@ -1,0 +1,2 @@
+# tradeLifeCycle2
+All the steps involved in a trade, from the point of pre-negotiations and trade execution through to settlement of the trade, are commonly referred to as the trade life cycle. Trade life cycle consists of a series of logical stages and steps. This presentation gives an overview of trade life cycle process. It also provides user guides and instructions on how to manage trade life cycle procedure in FinPricing
