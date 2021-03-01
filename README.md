@@ -42,4 +42,4 @@ Some notes on results
 – To compute Greeks on market instruments, system/model needs to shock each instrument and then reconstruct curve one by one. The calculation is much more complex and time-consuming. But trickery cannot be used to gain advantage.
 
 You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/lib/EqWarrant.html
